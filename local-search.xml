@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>随笔 essay gossip</title>
+    <link href="/2025/01/20/lesson-1/"/>
+    <url>/2025/01/20/lesson-1/</url>
+    
+    <content type="html"><![CDATA[<h3 id="我不要在家当牛马了"><a href="#我不要在家当牛马了" class="headerlink" title="我不要在家当牛马了"></a>我不要在家当牛马了</h3><p>回到家，饭是一顿好的没吃过的，活是整天干的，骂是整天挨的，生活费是没有的，就连睡觉都睡不好。<br>好家伙，我在学校哪过过这种苦日子。    </p><h3 id="学python还是java"><a href="#学python还是java" class="headerlink" title="学python还是java"></a>学python还是java</h3><p>在家闲来无聊，在思考学python还是java。<br>python下学期会开，Java下学期只是考查课，所以…    </p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>如何解决hexo博客图片无法加载的问题</title>
+    <link href="/2024/12/08/text/"/>
+    <url>/2024/12/08/text/</url>
+    
+    <content type="html"><![CDATA[<h2 id="图片无法加载的问题"><a href="#图片无法加载的问题" class="headerlink" title="图片无法加载的问题"></a>图片无法加载的问题</h2><p><img src="/2024/12/08/text/22.jpg" alt="这是图片" title="question">   </p><h1 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h1><p>1.当你遇到这个问题时，不要着急，因为我也遇到了，而且我比你更愚蠢。不要着急，且听我给你解决方法。<br><img src="/2024/12/08/text/23.jpg" alt="这是图片" title="question"><br>2.在source目录下创建image文件以储存要上传的图片。<br>3.使用markdown语法插入图片。<br>例如：<br><img src="/2024/12/08/text/24.jpg" alt="这是图片" title="question"><br>这是该图片的路径<br><img src="/2024/12/08/text/25.jpg" alt="这是图片" title="question"><br>这样输入，简单来说，你的图片名称是什么，后面就写什么，例如该图片名称是23.jpg，那么你就输入&#x2F;23.jpg.<br>hexo c,hexo g,hexo s即可查看是否成功。<br><strong>这样你就解决了一个愚蠢的小问题了。</strong></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>深夜反思猛做ctf喵</title>
+    <link href="/2024/11/21/LISTENER/"/>
+    <url>/2024/11/21/LISTENER/</url>
+    
+    <content type="html"><![CDATA[<h3 id="ctfshow-菜狗杯-杂项签到"><a href="#ctfshow-菜狗杯-杂项签到" class="headerlink" title="ctfshow 菜狗杯 杂项签到"></a>ctfshow 菜狗杯 杂项签到</h3><p>既然是签到题，就试探性地010打开一下，发现没什么规律<br>经过一点思考，搜索ctfshow<br>得到flag  </p><h3 id="ctfshow-菜狗杯-损坏的压缩包"><a href="#ctfshow-菜狗杯-损坏的压缩包" class="headerlink" title="ctfshow 菜狗杯 损坏的压缩包"></a>ctfshow 菜狗杯 损坏的压缩包</h3><p>嘶~<br>损坏的压缩包，可能格式存在错误<br>用010打开一下，发现开头是PNG<br>有可能是图片格式错误<br>修改格式<br>得到flag   </p><h3 id="ctfshow-菜狗杯-你会数数么"><a href="#ctfshow-菜狗杯-你会数数么" class="headerlink" title="ctfshow 菜狗杯 你会数数么"></a>ctfshow 菜狗杯 你会数数么</h3><p>老规矩010打开，发现一堆没有规律的文本<br>试探性搜索ctf<br>结果发现是”c””t””f”字母个数连续<br>结合题目，猜测是根据字母个数排序<br>010排序得到flag   </p><h3 id="ctfshow-菜狗杯-我是谁"><a href="#ctfshow-菜狗杯-我是谁" class="headerlink" title="ctfshow 菜狗杯 我是谁"></a>ctfshow 菜狗杯 我是谁</h3><p><img src="/2024/11/21/LISTENER/22.jpg" alt="这是图片" title="question"><br>嘶<br>越看越不对劲，这我也没玩过宝可梦呀<br>右键打开源代码<br>一堆美铝<br>看三十个得到ctf<br>这种题下次多出点</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
